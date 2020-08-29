@@ -14,3 +14,4 @@ Repository ini berisikan 3 jawaban soal
     - CRUD category
     - Create Video
     - Database : dw_tube.sql
+    - Note : attache tidak di upload ke github 
