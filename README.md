@@ -1,7 +1,7 @@
 # test_dw125
 Test fani
 
-Repository ini beisikan 3 jawaban soal
+Repository ini berisikan 3 jawaban soal
 1. Soal no 1   -- berada di folder 1-2
 2. Soal no 2   -- berada di folder 1-2
 3. Soal no 5
